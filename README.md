@@ -1,4 +1,4 @@
-This repository contains notes for various classes and seminars that I teach at NYU. They are focused on teaching programming for data science to non-CS majors. The emphasis is on offering live examples that students can use directly to complete their goals. 
+This repository contains notes for the Summer edition of _INFO-UB23: Introduction to Programming and Data Science_, taught at NYU Stern. It is a fork of the course materials repository designed by [Panos Ipeirotis](http://www.ipeirotis.com/), who deserves full credit for the content included here. The materials are focused on teaching programming for data science to non-CS majors. The emphasis is on offering live examples that students can use directly to complete their goals. 
 
 ## Accesing your Data Science Environment 
 
